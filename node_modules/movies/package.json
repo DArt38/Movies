@@ -1,0 +1,25 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paweleck/movies.git"
+  },
+  "keywords": [
+    "movies"
+  ],
+  "author": "Pawel C. <slimpablo@op.pl> (https://github.com/paweleck)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paweleck/movies/issues"
+  },
+  "homepage": "https://github.com/paweleck/movies#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
